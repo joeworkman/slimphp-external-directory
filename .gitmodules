@@ -1,0 +1,3 @@
+[submodule "slimapp"]
+	path = slimapp
+	url = https://github.com/odan/slim4-skeleton.git
